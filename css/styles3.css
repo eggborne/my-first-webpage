@@ -1,11 +1,11 @@
 body {
-  background-color: #afa;
-  margin-left: 20%;
-  font-family: "Press Start 2P", sans-serif;
+  background-color: #1f1;
+  margin-left: 10%;
+  font-family: "Indie Flower", sans-serif;
 }
 
 h1 {
-  color: #0f0;
+  color: #ff3;
   text-align: left;
   font-weight: bold;
   font-size: 70px;
@@ -21,13 +21,13 @@ h2 {
 }
 
 p {
-  color: #090;
+  color: #f11;
 
 }
 
 ul, ol {
-  font-size: 30px;
-  line-height: 40px;
+  font-size: 40px;
+  line-height: 50px;
 }
 
 ol {
