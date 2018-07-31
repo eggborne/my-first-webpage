@@ -1,0 +1,35 @@
+body {
+  background-color: #afa;
+  margin-left: 20%;
+  font-family: "Press Start 2P", sans-serif;
+}
+
+h1 {
+  color: #0f0;
+  text-align: left;
+  font-weight: bold;
+  font-size: 70px;
+  text-shadow: 2px 3px 5px #000;
+}
+
+h2 {
+  color: #99f;
+  font-style: italic;
+  text-align: left;
+  font-size: 40px;
+  text-shadow: 1px 2px 3px #333;
+}
+
+p {
+  color: #090;
+
+}
+
+ul, ol {
+  font-size: 30px;
+  line-height: 40px;
+}
+
+ol {
+  color: #999
+}
