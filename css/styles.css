@@ -1,0 +1,29 @@
+body {
+  background-color: #aaf;
+  margin-left:40px;
+}
+
+h1 {
+  color: #0f0;
+  text-align: center;
+}
+
+h2 {
+  color: #00f;
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  color: #afa;
+  font-family: sans-serif;
+}
+
+ul, ol {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+ol {
+  color: #999
+}
